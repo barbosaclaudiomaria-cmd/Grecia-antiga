@@ -1,0 +1,24 @@
+body{
+    color: rgb(55, 125, 142);
+    background: rgb(136, 185, 176);
+    margin: 0px;
+    font-family: "Instrument Serif", sans-serif;
+}
+
+header{
+    border-bottom:solid 2px rgb(131, 173, 197);
+    padding: 20px;
+    font-size: 35px;
+    color:rgb(233, 245, 239);
+}
+section{
+    background: rgb(167, 221, 194);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
